@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="name">Explore.com</string>
+    <string name="quote1">Mountains - Explore - Adventure</string>
+    <string name="des">Winter trekkings for everyone in the most beautiful mountain ranges
+        in all parts of the world.</string>
+    <string name="address">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="addressLand">2465 Latham St, Mountain View,\nCA 94043</string>
+    <string name="phone">+48 666 888 999</string>
+    <string name="website">www.explore.com</string>
+</resources>

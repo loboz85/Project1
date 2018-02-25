@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">320dp</dimen>
+    <dimen name="height">80dp</dimen>
+    <dimen name="heightImage">250dp</dimen>
+    <dimen name="name">40sp</dimen>
+    <dimen name="des">14sp</dimen>
+    <dimen name="quote">20sp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="drPadding">5dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="paddingTop">20dp</dimen>
+    <dimen name="card">5dp</dimen>
+    <dimen name="corner">10dp</dimen>
+    <dimen name="view">1dp</dimen>
+
+
+
+</resources>
